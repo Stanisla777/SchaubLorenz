@@ -1,0 +1,22 @@
+
+
+Это инфоблок для добавления преимущество товаров
+https://schaublorenz.su/bitrix/admin/iblock_section_admin.php?IBLOCK_ID=87&type=content&lang=ru&find_section_section=0&SECTION_ID=0&apply_filter=Y
+
+Инфоблок с товарами (редактируем свойства и подключаем его к товару)
+https://schaublorenz.su/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=75&type=catalog&lang=ru&find_el_y=Y&apply_filter=Y
+
+Над этим товаров издиваемся
+
+https://schaublorenz.su/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=75&type=catalog&ID=42285&lang=ru&find_section_section=-1&form_element_75_active_tab=edit1
+
+
+Мой первый товар
+https://schaublorenz.su/bitrix/admin/iblock_element_edit.php?IBLOCK_ID=75&type=catalog&ID=2742&lang=ru&find_section_section=-1&WF=Y
+
+
+https://schaublorenz.su/bitrix/cache/css/s2/elektro_flat/template_992ae227085ba6005d225b766b08a29d/template_992ae227085ba6005d225b766b08a29d_v1.css?1550250351526625
+
+Добавление свойств и редактирование
+
+https://schaublorenz.su/bitrix/admin/iblock_edit.php?type=catalog&lang=ru&ID=75&admin=Y
